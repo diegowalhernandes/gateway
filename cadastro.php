@@ -15,20 +15,28 @@
         <div class="col-sm-4">
             <form action="" method="">
             <div class="mb-3">
-              <label>Email</label>
-              <input type="email" class="form-control" name="email" placeholder="name@example.com" require>
-            </div>
-            <div class="mb-3">
-              <label>Senha</label>
-              <input type="password" class="form-control" name="senha" required>
-            </div>
-            <div style="text-align: right;"> 
-                <button type="submit" class="btn btn-primary">Acessar</button>
-            </div>
-            <br>
-            <div style="text-align: center">
-              <a href="cadastro.php">Cadastre-se</a>
-            </div>
+                <label>Nome</label>
+                <input type="email" class="form-control" name="nome" placeholder="John" require>
+                </div>
+                <div class="mb-3">
+                <label>CPF</label>
+                <input type="email" class="form-control" name="cpf" placeholder="000.000.000-00" require>
+                </div>
+                <div class="mb-3">
+                <label>Email</label>
+                <input type="email" class="form-control" name="email" placeholder="name@example.com" require>
+                </div>
+                <div class="mb-3">
+                <label>Senha</label>
+                <input type="password" class="form-control" name="senha" required>
+                </div>
+                <div style="text-align: right;"> 
+                    <button type="submit" class="btn btn-primary">Cadastrar</button>
+                </div>
+                <br>
+                <div style="text-align: center">
+                <a href="teste.php">Já sou cadastrado</a>
+                </div>
             </form>
         </div>
       </div>
