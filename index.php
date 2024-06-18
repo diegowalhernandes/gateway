@@ -13,7 +13,7 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta nemo deserunt laboriosam? Nam ab, repellendus hic omnis iste, quisquam aut corrupti sunt molestiae ea itaque voluptate beatae voluptas deserunt earum.
         </div>
         <div class="col-sm-4">
-            <form action="" method="">
+            <form action="cadastro2.php" method="post">
             <div class="mb-3">
               <label>Email</label>
               <input type="email" class="form-control" name="email" placeholder="name@example.com" require>
