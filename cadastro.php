@@ -16,11 +16,11 @@
             <form action="" method="">
             <div class="mb-3">
                 <label>Nome</label>
-                <input type="email" class="form-control" name="nome" placeholder="John" require>
+                <input type="text" class="form-control" name="nome" placeholder="John" require>
                 </div>
                 <div class="mb-3">
                 <label>CPF</label>
-                <input type="email" class="form-control" name="cpf" placeholder="000.000.000-00" require>
+                <input type="text" class="form-control" name="cpf" placeholder="000.000.000-00" require>
                 </div>
                 <div class="mb-3">
                 <label>Email</label>
